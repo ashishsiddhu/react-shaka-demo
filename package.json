@@ -1,6 +1,6 @@
 {
   "name": "react-shaka-player",
-  "homepage": "http://ashishsiddhu.github.io/profile",
+  "homepage": "http://ashishsiddhu.github.io/react-shaka-demo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,7 +10,8 @@
     "shaka-player": "^2.4.4"
   },
   "devDependencies": {
-    "react-scripts": "0.9.5"
+    "react-scripts": "0.9.5",
+    "gh-pages": "^3.2.2"
   },
   "scripts": {
     "start": "react-scripts start",
