@@ -1,6 +1,6 @@
 {
   "name": "react-shaka-player",
-  "homepage": "http://ashishsiddhu.github.io/profile",
+  "homepage": "http://ashishsiddhu.github.io/shakaplayer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
