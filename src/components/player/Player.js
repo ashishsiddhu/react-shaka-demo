@@ -62,7 +62,7 @@ class Player extends Component {
     return (
       <div>
         <video ref="video"
-          width="640"
+          className="videoWidth"
           poster="//shaka-player-demo.appspot.com/assets/poster.jpg"
           controls autoPlay>
         </video>
